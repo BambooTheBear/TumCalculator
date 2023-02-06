@@ -1,5 +1,4 @@
 <script setup>
-import Button from "@/components/Button.vue";
 import Header from "@/components/Header.vue";
 import Calculator from "@/components/Calculator.vue";
 </script>
