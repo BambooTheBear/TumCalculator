@@ -11,7 +11,7 @@ import Calculator from "@/components/Calculator.vue";
   <main ref="main">
       <Calculator></Calculator>
   </main>
-</template><img src="../../../OneDrive/Desktop/icon.png" height="189" width="294"/>
+</template>
 
 <style scoped>
 header {
